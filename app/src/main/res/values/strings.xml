@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Weather_app</string>
+
+    <string name="search_route_name">Поиск</string>
+    <string name="saved_locations_route_name">Города</string>
+
+    <string name="search_placeholder">Поиск…</string>
+    <string name="clear_search_query">Очистить</string>
+
+    <string name="lets_search">Начните смотреть погоду, чтобы здесь появились сохранённые города</string>
+
+    <string name="back_navigation">На предыдущий экран</string>
+    <string name="delete_forecast">Удалить</string>
+    <string name="temperature_from_to">%1$.1f..%2$.1f</string>
+</resources>
